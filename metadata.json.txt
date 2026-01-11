@@ -1,1 +1,7 @@
-metadata.json
+{
+  "name": "Glamify AI Experience",
+  "description": "Visualización de productos de lujo con IA",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
